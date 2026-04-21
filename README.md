@@ -1,4 +1,4 @@
-# Hi, I'm Teesta 👋✨
+# Hi, I'm Teesta
 
 🎓 CSE (AI & ML) student  
 💡 Interested in AI, ML, and Data Science  
